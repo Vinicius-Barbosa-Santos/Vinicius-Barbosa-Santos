@@ -5,6 +5,9 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Barbosa-Santos&show_icons=true&theme=radical)
 
+[![Vinicius](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Barbosa-Santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tecnologias
 
 <div style="display: inline-block"><br/>
