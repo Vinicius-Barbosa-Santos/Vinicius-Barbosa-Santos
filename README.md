@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_santos3014)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-barbosa-68b722115)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Barbosa-Santos)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://food-ecommerce-dev.netlify.app/)
 
 Sou desenvolvedor front‑end focado em criar interfaces modernas e performáticas com React, TypeScript e Tailwind CSS. Gosto de transformar ideias em produtos bonitos e funcionais, sempre com atenção aos detalhes.
 
