@@ -43,9 +43,8 @@ Sou desenvolvedor front‑end focado em criar interfaces modernas e performátic
 
 ## 📫 Contato
 
-- Email: viniciusbarbosasantos3014@gmail.com  
-- LinkedIn: [vinicius-barbosa-68b722115](https://www.linkedin.com/in/vinicius-barbosa-68b722115)  
-- Instagram: [@vinicius_santos3014](https://www.instagram.com/vinicius_santos3014)
+- Email: viniciusfoxsantos@gmail.com  
+- LinkedIn: [vinicius-barbosa-68b722115](https://www.linkedin.com/in/vinicius-barbosa-68b722115/)  
 
 ---
 
