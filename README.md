@@ -36,8 +36,8 @@ Sou desenvolvedor front‑end focado em criar interfaces modernas e performátic
 
 ## 🚀 Projetos em destaque
 
-- Projeto E‑commerce — [Site](https://food-ecommerce-dev.netlify.app/) • [Repositório](https://github.com/Vinicius-Barbosa-Santos)
-- Portfólio — [Site](https://food-ecommerce-dev.netlify.app/) • [Repositório](https://github.com/Vinicius-Barbosa-Santos/portifolio)
+- Projeto E‑commerce — [Site](https://food-ecommerce-dev.netlify.app/) • [Repositório](https://github.com/Vinicius-Barbosa-Santos/food-commerce-dev)
+- Portfólio — [Site](https://vinicius-dev-portifoilio.netlify.app/)
 
 ---
 
